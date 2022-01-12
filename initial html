@@ -1,0 +1,17 @@
+<DOCTYPE html>
+<main>
+  <head>
+    <title>
+      <h1 style="color: yellow;">Welcome to I_LOVE_TO_MAKE_STUFF's web page!</h1>
+    </title>
+  <body>
+    <h3>Here are some links:</h3>
+    <ul>
+      <li><p>My Scratch<a href="scratch.mit.edu/users/I_LOVE_TO_MAKE_STUFF">acount</li> <---
+      <li>My best project(coming soon!)</li>
+    </ul>
+    <p>Welcome to my page!
+    </p>
+  </body>
+  </head>
+</main>
