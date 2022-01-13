@@ -1,8 +1,16 @@
 <DOCTYPE html>
+<style>
+  p {
+	font-family: orbitron
+	font-size:15 px
+	}
+	hi {
+	color="yellow"}
+</style>
 <main>
   <head>
     <title>
-      <h1 style="color: yellow;">Welcome to I_LOVE_TO_MAKE_STUFF's web page!</h1>
+      <h1>Welcome to I_LOVE_TO_MAKE_STUFF's web page!</h1>
     </title>
   <body>
     <h3>Here are some links:</h3>
@@ -12,6 +20,10 @@
     </ul>
     <p>Welcome to my page!
     </p>
+		<p>Want to suggest a project? Post your suggestions bellow!
+    <form>
+      <input type="text" placeholder="suggestions here" required>
+    </form>
   </body>
   </head>
 </main>
